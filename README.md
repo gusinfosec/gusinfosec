@@ -2,8 +2,7 @@
 
 🚀 IT Auditor • Cybersecurity Consultant • Fencer  
 
-I blend deep technical audit expertise with a lifelong passion for fencing.  
-Currently building tools, writing about infosec, and helping organizations stay resilient.  
+I blend deep technical audit expertise with a lifelong passion for fencing. Currently building tools, writing about infosec, and helping organizations stay resilient.  
 
 ---
 
