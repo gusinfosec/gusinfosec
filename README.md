@@ -28,7 +28,7 @@ I blend deep technical audit expertise with a lifelong passion for fencing. Curr
 
 ### 📫 Connect
 - ✉️ [Email](mailto:220622548+gusinfosec@users.noreply.github.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/fretzolivares) *(optional if you want it public)*  
+- 💼 [LinkedIn](https://linkedin.com/in/fretzolivares) 
 - 🌐 Personal site (coming soon?)  
 
 ---
