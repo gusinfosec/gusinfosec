@@ -15,14 +15,14 @@ I blend deep technical audit expertise with a lifelong passion for fencing. Curr
 ---
 
 ### 🔹 Current Project
-🌤️ [Daily Dashboard](https://github.com/gusinfosec/daily-dashboard) – a lightweight Dockerized Flask app that shows weather + daily quotes.  
+🤖 [MergeMind](https://github.com/gusinfosec/MergeMind) – AI-powered GitHub Action that writes PR titles & summaries from diffs. Zero-click. Consistent. Saves hours every sprint.  
 
 ---
 
 ### 🔹 Roadmap Ideas
-- External quote API integration  
-- Weather alerts via `ntfy`  
-- Dark/light theme toggle  
+- Configurable PR templates (org-wide style rules)  
+- Team analytics (time saved, PR quality metrics)  
+- Pro tier with managed API keys & usage caps  
 
 ---
 
