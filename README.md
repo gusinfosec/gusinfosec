@@ -14,21 +14,26 @@ I blend deep technical audit expertise with a lifelong passion for fencing. Curr
 
 ---
 
-### 🔹 Current Project
+### 🔹 Current Projects
 🤖 [MergeMind](https://github.com/gusinfosec/MergeMind) – AI-powered GitHub Action that writes PR titles & summaries from diffs. Zero-click. Consistent. Saves hours every sprint.  
+
+🛡 [Compliance-as-Code](https://github.com/gusinfosec/compliance-as-code) – Codify SOX, PCI DSS, HIPAA, ISO27001 controls into YAML. Automate evidence collection and deliver audit-ready dashboards & exports.  
 
 ---
 
 ### 🔹 Roadmap Ideas
-- Configurable PR templates (org-wide style rules)  
-- Team analytics (time saved, PR quality metrics)  
-- Pro tier with managed API keys & usage caps  
+- MergeMind: Configurable PR templates (org-wide style rules)  
+- MergeMind: Team analytics (time saved, PR quality metrics)  
+- MergeMind: Pro tier with managed API keys & usage caps  
+- Compliance-as-Code: Stripe + Ko-fi integration for subscriptions  
+- Compliance-as-Code: Policy packs (SOX, PCI DSS, HIPAA, ISO27001)  
+- Compliance-as-Code: Automated evidence dashboards & enterprise onboarding  
 
 ---
 
 ### 📫 Connect
 - ✉️ [Email](mailto:220622548+gusinfosec@users.noreply.github.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/fretzolivares) 
+- 💼 [LinkedIn](https://linkedin.com/in/fretzolivares)  
 - 🌐 Personal site (coming soon?)  
 
 ---
